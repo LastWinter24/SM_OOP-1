@@ -12,5 +12,5 @@ public:
     Square(const Figure& fig1, const Figure& fig2);
     bool checkIntersection();
 };
-
+//класс, представляющий квадрат как фигуру, состоящую из двух других фигур.
 #endif

@@ -13,4 +13,6 @@ double Point::getX() const {
 
 double Point::getY() const {
     return y;
+    //Функция setCoordinates позволяет установить новые координаты для точки.
+    //Функции getX и getY возвращают координаты x и y соответственно.
 }

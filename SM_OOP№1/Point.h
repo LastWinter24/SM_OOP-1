@@ -13,5 +13,5 @@ public:
     double getX() const;
     double getY() const;
 };
-
+//класс, представляющий точку на плоскости с координатами x и y.
 #endif

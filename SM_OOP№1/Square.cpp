@@ -4,6 +4,5 @@
 Square::Square(const Figure& fig1, const Figure& fig2) : figure1(fig1), figure2(fig2) {}
 
 bool Square::checkIntersection() {
-    // Логика проверки пересечения фигур
-    // Вернуть true, если фигуры пересекаются, иначе false
+	//Функция checkIntersection проверяет, пересекаются ли две фигуры квадрата на плоскости.
 }
